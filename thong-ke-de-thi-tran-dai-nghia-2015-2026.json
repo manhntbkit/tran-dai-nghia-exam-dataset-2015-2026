@@ -1,0 +1,353 @@
+{
+  "title": "Thống kê đề thi, tỷ lệ chọi và điểm chuẩn khảo sát lớp 6 Trường THCS và THPT Trần Đại Nghĩa (2015–2026)",
+  "source": "OnThiTDN (https://onthitdn.com/blog/thong-ke-de-thi-tran-dai-nghia-2015-2026)",
+  "publisher": "OnThiTDN",
+  "license": "CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "coverage": "2015–2026",
+  "location": "TP. Hồ Chí Minh, Việt Nam",
+  "updatedAt": "2026-11-21",
+  "methodology": "Thống kê câu hỏi dựa trên 11 bộ đề thi thật đã số hóa trong kho luyện tập OnThiTDN (giai đoạn 2015–2026; năm 2021 TP.HCM không tổ chức khảo sát do Covid-19). Số từ trung bình tính theo số từ tiếng Việt/Anh trong phần đề bài (stem) đã lược thẻ định dạng. Bộ 2018–2019 lưu đủ 20 câu trắc nghiệm; bộ 2020 lưu 20 câu trắc nghiệm và 6 câu Toán; các bộ 2022–2026 và 2015–2017 lưu cả hai phần trắc nghiệm và tự luận. Chỉ tiêu, số thí sinh dự tuyển (applicants), tỷ lệ chọi (competitionRatio) và điểm chuẩn chỉ được công bố cho các năm đã đối chiếu từ hai nguồn trở lên (2022–2026); các năm còn lại để trống đến khi xác minh xong. Số từ trung bình của cả bộ đề bị ảnh hưởng bởi việc có hay không có phần tự luận trong bộ đã số hóa, nên so sánh giữa các năm nên dùng cột chỉ tính câu trắc nghiệm.",
+  "summary": {
+    "examYearsConducted": 11,
+    "skippedYears": [
+      2021
+    ],
+    "totalDigitizedQuestions": 370,
+    "multipleChoiceSectionQuestions": 244,
+    "essaySectionQuestions": 126,
+    "questionsWithVisual": 82,
+    "questionsWithVisualPercent": 22.2,
+    "multipleChoiceWithVisual": 65,
+    "multipleChoiceWithVisualPercent": 26.6,
+    "essayWithVisual": 17,
+    "overallAverageWordCount": 65.6,
+    "averageWordCountRange2018To2020": {
+      "min": 33.3,
+      "max": 47.9
+    },
+    "averageWordCountRange2022To2026": {
+      "min": 69.4,
+      "max": 79.4
+    },
+    "difficultyDistribution": {
+      "de": {
+        "label": "Dễ",
+        "count": 94,
+        "percent": 25.4
+      },
+      "trungBinh": {
+        "label": "Trung bình",
+        "count": 129,
+        "percent": 34.9
+      },
+      "kha": {
+        "label": "Khá",
+        "count": 103,
+        "percent": 27.8
+      },
+      "thuThach": {
+        "label": "Thử thách",
+        "count": 44,
+        "percent": 11.9
+      }
+    },
+    "foundationalSharePercent": 60.3
+  },
+  "years": [
+    {
+      "examYear": 2026,
+      "schoolYear": "2026–2027",
+      "examDate": "2026-07-01",
+      "status": "khao_sat",
+      "cutoffScore": 75.25,
+      "quota": 350,
+      "applicants": 4225,
+      "competitionRatio": "1/12,07",
+      "quotaNote": "350 chỉ tiêu",
+      "cutoffSource": "Thông báo Trường THCS & THPT Trần Đại Nghĩa / Sở GD&ĐT TP.HCM",
+      "digitizedQuestions": 38,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 18,
+      "visualQuestions": 8,
+      "visualPercent": 21.1,
+      "avgWordsPerQuestion": 79.3,
+      "avgWordsMcOnly": 35.8,
+      "difficulty": {
+        "de": 7,
+        "trungBinh": 13,
+        "kha": 13,
+        "thuThach": 5
+      }
+    },
+    {
+      "examYear": 2025,
+      "schoolYear": "2025–2026",
+      "examDate": "2025-06-16",
+      "status": "khao_sat",
+      "cutoffScore": 73.25,
+      "quota": 350,
+      "applicants": 4851,
+      "competitionRatio": "1/13,86",
+      "quotaNote": "350 chỉ tiêu",
+      "cutoffSource": "Thông báo Trường THCS & THPT Trần Đại Nghĩa / Sở GD&ĐT TP.HCM",
+      "digitizedQuestions": 38,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 18,
+      "visualQuestions": 8,
+      "visualPercent": 21.1,
+      "avgWordsPerQuestion": 69.5,
+      "avgWordsMcOnly": 27.4,
+      "difficulty": {
+        "de": 7,
+        "trungBinh": 14,
+        "kha": 12,
+        "thuThach": 5
+      }
+    },
+    {
+      "examYear": 2024,
+      "schoolYear": "2024–2025",
+      "examDate": "2024-07-04",
+      "status": "khao_sat",
+      "cutoffScore": 67.5,
+      "quota": 350,
+      "applicants": 4301,
+      "competitionRatio": "1/12,29",
+      "quotaNote": "350 chỉ tiêu",
+      "cutoffSource": "Sở GD&ĐT TP.HCM / VnExpress",
+      "digitizedQuestions": 36,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 16,
+      "visualQuestions": 8,
+      "visualPercent": 22.2,
+      "avgWordsPerQuestion": 79.4,
+      "avgWordsMcOnly": 26.4,
+      "difficulty": {
+        "de": 8,
+        "trungBinh": 11,
+        "kha": 12,
+        "thuThach": 5
+      }
+    },
+    {
+      "examYear": 2023,
+      "schoolYear": "2023–2024",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": 64.75,
+      "quota": 525,
+      "applicants": 4800,
+      "competitionRatio": "1/9,14",
+      "quotaNote": "525 chỉ tiêu",
+      "cutoffSource": "Sở GD&ĐT TP.HCM / Vietnamnet",
+      "digitizedQuestions": 36,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 16,
+      "visualQuestions": 4,
+      "visualPercent": 11.1,
+      "avgWordsPerQuestion": 69.4,
+      "avgWordsMcOnly": 24.8,
+      "difficulty": {
+        "de": 7,
+        "trungBinh": 11,
+        "kha": 13,
+        "thuThach": 5
+      }
+    },
+    {
+      "examYear": 2022,
+      "schoolYear": "2022–2023",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": 63.5,
+      "quota": 525,
+      "applicants": 3570,
+      "competitionRatio": "1/6,80",
+      "quotaNote": "525 chỉ tiêu",
+      "cutoffSource": "Sở GD&ĐT TP.HCM / VnExpress",
+      "digitizedQuestions": 37,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 17,
+      "visualQuestions": 6,
+      "visualPercent": 16.2,
+      "avgWordsPerQuestion": 73.9,
+      "avgWordsMcOnly": 25.7,
+      "difficulty": {
+        "de": 7,
+        "trungBinh": 13,
+        "kha": 12,
+        "thuThach": 5
+      }
+    },
+    {
+      "examYear": 2021,
+      "schoolYear": "2021–2022",
+      "examDate": null,
+      "status": "khong_khao_sat_covid19",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "UBND TP.HCM",
+      "digitizedQuestions": null,
+      "multipleChoiceQuestions": null,
+      "essayQuestions": null,
+      "visualQuestions": null,
+      "visualPercent": null,
+      "avgWordsPerQuestion": null,
+      "avgWordsMcOnly": null,
+      "difficulty": null
+    },
+    {
+      "examYear": 2020,
+      "schoolYear": "2020–2021",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "Chưa xác minh nguồn",
+      "digitizedQuestions": 26,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 6,
+      "visualQuestions": 10,
+      "visualPercent": 38.5,
+      "avgWordsPerQuestion": 33.3,
+      "avgWordsMcOnly": 33.6,
+      "difficulty": {
+        "de": 5,
+        "trungBinh": 9,
+        "kha": 8,
+        "thuThach": 4
+      }
+    },
+    {
+      "examYear": 2019,
+      "schoolYear": "2019–2020",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "Chưa xác minh nguồn",
+      "digitizedQuestions": 20,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 0,
+      "visualQuestions": 9,
+      "visualPercent": 45.0,
+      "avgWordsPerQuestion": 40.8,
+      "avgWordsMcOnly": 40.8,
+      "difficulty": {
+        "de": 5,
+        "trungBinh": 7,
+        "kha": 5,
+        "thuThach": 3
+      }
+    },
+    {
+      "examYear": 2018,
+      "schoolYear": "2018–2019",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "Chưa xác minh nguồn",
+      "digitizedQuestions": 20,
+      "multipleChoiceQuestions": 20,
+      "essayQuestions": 0,
+      "visualQuestions": 4,
+      "visualPercent": 20.0,
+      "avgWordsPerQuestion": 47.9,
+      "avgWordsMcOnly": 47.9,
+      "difficulty": {
+        "de": 5,
+        "trungBinh": 7,
+        "kha": 5,
+        "thuThach": 3
+      }
+    },
+    {
+      "examYear": 2017,
+      "schoolYear": "2017–2018",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "Chưa xác minh nguồn",
+      "digitizedQuestions": 36,
+      "multipleChoiceQuestions": 24,
+      "essayQuestions": 12,
+      "visualQuestions": 5,
+      "visualPercent": 13.9,
+      "avgWordsPerQuestion": 59.8,
+      "avgWordsMcOnly": 47.2,
+      "difficulty": {
+        "de": 13,
+        "trungBinh": 12,
+        "kha": 7,
+        "thuThach": 4
+      }
+    },
+    {
+      "examYear": 2016,
+      "schoolYear": "2016–2017",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "Chưa xác minh nguồn",
+      "digitizedQuestions": 42,
+      "multipleChoiceQuestions": 30,
+      "essayQuestions": 12,
+      "visualQuestions": 8,
+      "visualPercent": 19.0,
+      "avgWordsPerQuestion": 75.0,
+      "avgWordsMcOnly": 53.8,
+      "difficulty": {
+        "de": 13,
+        "trungBinh": 18,
+        "kha": 9,
+        "thuThach": 2
+      }
+    },
+    {
+      "examYear": 2015,
+      "schoolYear": "2015–2016",
+      "examDate": null,
+      "status": "khao_sat",
+      "cutoffScore": null,
+      "quota": null,
+      "applicants": null,
+      "competitionRatio": null,
+      "quotaNote": "Chưa xác minh",
+      "cutoffSource": "Chưa xác minh nguồn",
+      "digitizedQuestions": 41,
+      "multipleChoiceQuestions": 30,
+      "essayQuestions": 11,
+      "visualQuestions": 12,
+      "visualPercent": 29.3,
+      "avgWordsPerQuestion": 62.5,
+      "avgWordsMcOnly": 46.9,
+      "difficulty": {
+        "de": 17,
+        "trungBinh": 14,
+        "kha": 7,
+        "thuThach": 3
+      }
+    }
+  ]
+}
